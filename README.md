@@ -1,4 +1,4 @@
-# <div align="center">🚀 Welcome to My Digital Universe 🚀</div>
+# <div align="center">Hi there 👋, I'm Sayan Chatterjee. Welcome to My Digital Universe </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SAYAN%20CHATTERJEE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=51&descAlign=62" width="100%"/>
