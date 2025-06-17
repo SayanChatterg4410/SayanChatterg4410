@@ -1,11 +1,11 @@
-# <div align="center">Hi there 👋, I'm Sayan Chatterjee.</div>
+# <div align="center">🚀 Welcome to My Digital Universe 🚀</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SAYAN%20CHATTERJEE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%F0%9F%92%BB+Full-Stack+Developer;%E2%9A%A1+Frontend+Specialist;%F0%9F%8E%A8+UI%2FUX+Enthusiast;%F0%9F%94%A5+Clean+Code+Advocate;%F0%9F%93%9A />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%F0%9F%92%BB+Full-Stack+Developer;%E2%9A%A1+Frontend+Specialist;%F0%9F%8E%A8+UI%2FUX+Enthusiast;%F0%9F%94%A5+Clean+Code+Advocate;%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -533,5 +533,3 @@ mindmap
 </div>
 
 ---
-
-<div align
