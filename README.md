@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Sayan+Chatterjee" alt="Typing Name Animation" />
-</p>
+<h1 align="center">Hi there 👋, I'm Sayan Chatterjee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Frontend+Specialist;Loves+Clean+Code+%26+UI%2FUX;Always+Learning+Something+New" alt="Typing Subtitle Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Frontend+Specialist;Loves+Clean+Code+%26+UI%2FUX;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
